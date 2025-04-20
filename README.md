@@ -25,8 +25,7 @@ DELETE  /tasks/:id      Delete a task
 
 Run Locally
 
-git clone https://github.com/your-username/task-manager-api.git
-cd task-manager-api
+git clone https://github.com/AmolSonawane1026/Osumare_Backend.git
 npm install
 node server.js
 
