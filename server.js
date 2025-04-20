@@ -9,7 +9,7 @@ app.use(bodyParser.json());
 app.use('/tasks', taskRoutes);
 
 app.get('/', (req, res) => {
-    res.send('Task API is running...');
+    res.send('Task API is running');
 });
 
 app.listen(PORT, () => {

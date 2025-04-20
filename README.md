@@ -7,10 +7,6 @@ A  RESTful API to handle tasks
 Features
 
 - Create, read, update, delete tasks (CRUD)
-- Storage in memory (wipes on server reboot)
-- Route split in code (view `routes/tasks.js`)
-- Simple validation (title & description are mandatory)
-- Small bugs left on purpose for learning ????
 
 
 Endpoints
